@@ -15,3 +15,5 @@ Report
 Story
 [your link here]
 (https://us1.ca.analytics.ibm.com/bi/?perspective=story&pathRef=.my_folders%2FNew%2Bstory001&action=view&sceneId=-1&sceneTime=0)
+
+Journey to Cloud: Envisioning Your Solution
