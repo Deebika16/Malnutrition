@@ -20,4 +20,4 @@ Journey to Cloud: Envisioning Your Solution
 ([document.pdf](https://github.com/Deebika16/Malnutrition/files/12503794/document.pdf))
 
 Getting Started with Enterprise Data Science
-(
+([document 1.pdf](https://github.com/Deebika16/Malnutrition/files/12503797/document.1.pdf))
